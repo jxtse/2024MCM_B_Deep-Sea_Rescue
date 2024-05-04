@@ -3,6 +3,13 @@
      </div>
 
 
+# Update in 3th May 2024
+This paper was awarded with **Honorable Mention** in 2024 Mathematical Contest in Modeling
+
+[Certificate](https://media.licdn.com/dms/image/D562DAQHkL9iMe0Nsiw/profile-treasury-image-shrink_160_160/0/1714711838322?e=1715432400&v=beta&t=CpZCzbNgMbd7DAT_FbZNI43BCgR4-32tInSjTOq0YTg)
+
+---
+
 # Description
 2024 MCM Question B titled "Deep-Sea Rescue: Localization and Search Strategies in Challenging Oceanic Environments"
 
