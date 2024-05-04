@@ -6,7 +6,7 @@
 # Update in 3th May 2024
 This paper was awarded with **Honorable Mention** in 2024 Mathematical Contest in Modeling
 
-[Certificate](https://media.licdn.com/dms/image/D562DAQHkL9iMe0Nsiw/profile-treasury-image-shrink_160_160/0/1714711838322?e=1715432400&v=beta&t=CpZCzbNgMbd7DAT_FbZNI43BCgR4-32tInSjTOq0YTg)
+[Certificate]([https://media.licdn.com/dms/image/D562DAQHkL9iMe0Nsiw/profile-treasury-image-shrink_160_160/0/1714711838322?e=1715432400&v=beta&t=CpZCzbNgMbd7DAT_FbZNI43BCgR4-32tInSjTOq0YTg](https://media.licdn.com/dms/image/D562DAQHkL9iMe0Nsiw/profile-treasury-image-shrink_800_800/0/1714711838322?e=1715432400&v=beta&t=G13kF18D3_6LS-VVvQxHU0Y9DEHbbNEj1IB3tiyyZXY))
 
 ---
 
