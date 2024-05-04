@@ -37,5 +37,5 @@ predictive control; random walk; Savitsky-Golay filter
       
 ---
 
-![图片](https://github.com/jxTse/)
+![图片](https://github.com/jxtse/2024MCM_B_Deep-Sea_Rescue/blob/main/workflow.jpg)
     
