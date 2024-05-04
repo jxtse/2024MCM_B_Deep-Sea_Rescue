@@ -1,8 +1,3 @@
-<div align="center">
-      <h1><br/>2024MCM_B_Deep-Sea_Rescue</h1>
-     </div>
-
-
 # Update in 3th May 2024
 This paper was awarded with **Honorable Mention** in 2024 Mathematical Contest in Modeling
 
