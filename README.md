@@ -35,7 +35,7 @@ predictive control; random walk; Savitsky-Golay filter
 # Tech Used
  ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
       
+---
 
-      
-<!-- </> with 💛 by readMD (https://readmd.itsvg.in) -->
+![图片](https://github.com/jxTse/)
     
